@@ -3,7 +3,7 @@ const express = require('express');
 const fetch = require('node-fetch');
 // Get API keys:
 require('dotenv').config();
-const openWeatherKey = process.env.OPEN_WEATHER_KEY;
+const openWeatherKey = process.env.d4921a020537558a376d08743f40a54a;
 const googleKey = process.env.GOOGLE_KEY;
 // Initialize Express:
 const app = express();
